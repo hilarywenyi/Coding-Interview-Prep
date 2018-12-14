@@ -11,11 +11,8 @@ Either you are new to software engineering, or you have some web development bac
 
 ## Table of Contents
 
-# collapsible markdown?
 <details><summary>1. Array</summary>
 <p>
-
-#### yes, even hidden code blocks!
 
 - [ ]  Two Sum
 - [ ] 3Sum
@@ -45,30 +42,30 @@ Either you are new to software engineering, or you have some web development bac
 - [ ] Minimum Size Subarray Sum
 - [ ] Missing Number
 - [ ] Move Zeroes
-Next Permutation
-Pascal's Triangle
-Pascal's Triangle II
-Plus One
-Product of Array Except Self
-Remove Duplicates from Sorted Array
-Remove Duplicates from Sorted Array II
-Remove Element
-Rotate Array
-Rotate Image
-Search a 2D Matrix
-Search for a Range
-Search in Rotated Sorted Array
-Search in Rotated Sorted Array II
-Search Insert Position
-Set Matrix Zeroes
-Sort Colors
-Spiral Matrix
-Spiral Matrix II
-Subsets
-Subsets II
-Summary Ranges
-Unique Paths
-Unique Paths II
+- [ ] Next Permutation
+- [ ]Pascal's Triangle
+- [ ]Pascal's Triangle II
+- [ ]Plus One
+- [ ]Product of Array Except Self
+- [ ]Remove Duplicates from Sorted Array
+- [ ]Remove Duplicates from Sorted Array II
+- [ ]Remove Element
+- [ ]Rotate Array
+- [ ]Rotate Image
+- [ ]Search a 2D Matrix
+- [ ]Search for a Range
+- [ ]Search in Rotated Sorted Array
+- [ ]Search in Rotated Sorted Array II
+- [ ]Search Insert Position
+- [ ]Set Matrix Zeroes
+- [ ]Sort Colors
+- [ ]Spiral Matrix
+- [ ]Spiral Matrix II
+- [ ]Subsets
+- [ ]Subsets II
+- [ ]Summary Ranges
+- [ ]Unique Paths
+- [ ]Unique Paths II
 </p>
 </details>
 
