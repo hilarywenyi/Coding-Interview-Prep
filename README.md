@@ -43,43 +43,145 @@ Either you are new to software engineering, or you have some web development bac
 - [ ] Missing Number
 - [ ] Move Zeroes
 - [ ] Next Permutation
-- [ ]Pascal's Triangle
-- [ ]Pascal's Triangle II
-- [ ]Plus One
-- [ ]Product of Array Except Self
-- [ ]Remove Duplicates from Sorted Array
-- [ ]Remove Duplicates from Sorted Array II
-- [ ]Remove Element
-- [ ]Rotate Array
-- [ ]Rotate Image
-- [ ]Search a 2D Matrix
-- [ ]Search for a Range
-- [ ]Search in Rotated Sorted Array
-- [ ]Search in Rotated Sorted Array II
-- [ ]Search Insert Position
-- [ ]Set Matrix Zeroes
-- [ ]Sort Colors
-- [ ]Spiral Matrix
-- [ ]Spiral Matrix II
-- [ ]Subsets
-- [ ]Subsets II
-- [ ]Summary Ranges
-- [ ]Unique Paths
-- [ ]Unique Paths II
+- [ ] Pascal's Triangle
+- [ ] Pascal's Triangle II
+- [ ] Plus One
+- [ ] Product of Array Except Self
+- [ ] Remove Duplicates from Sorted Array
+- [ ] Remove Duplicates from Sorted Array II
+- [ ] Remove Element
+- [ ] Rotate Array
+- [ ] Rotate Image
+- [ ] Search a 2D Matrix
+- [ ] Search for a Range
+- [ ] Search in Rotated Sorted Array
+- [ ] Search in Rotated Sorted Array II
+- [ ] Search Insert Position
+- [ ] Set Matrix Zeroes
+- [ ] Sort Colors
+- [ ] Spiral Matrix
+- [ ] Spiral Matrix II
+- [ ] Subsets
+- [ ] Subsets II
+- [ ] Summary Ranges
+- [ ] Unique Paths
+- [ ] Unique Paths II
 </p>
 </details>
 
-2. Hash Table (this is really important - understand all of the different collision mitigation mechanisms, understand what amortized constant-time means)
+<details><summary>2. Hash Table </summary>
+<p>
+(this is really important - understand all of the different collision mitigation mechanisms, understand what amortized constant-time means)
+- [ ] Group Anagrams
+- [ ] Bulls and Cows
+- [ ] Count Primes
+- [ ] Fraction to Recurring Decimal
+- [ ] H-Index
+- [ ] H-Index II
+- [ ] Happy Number
+- [ ] Isomorphic Strings
+- [ ] Longest Substring Without Repeating Characters
+- [ ] Repeated DNA Sequences
+- [ ] Single Number
+- [ ] Single Number II
+- [ ] Valid Anagram
+- [ ] Valid Sudoku
+- [ ] Word Pattern
+</p>
+</details>
 
-3. Linked List
+<details><summary>3. Linked List</summary>
+- [ ] Add Two Numbers
+- [ ] Convert Sorted List to Binary Search Tree
+- [ ] Delete Node in a Linked List
+- [ ] Insertion Sort List
+- [ ] Intersection of Two Linked Lists
+- [ ] Linked List Cycle
+- [ ] Linked List Cycle II
+- [ ] Merge Two Sorted Lists
+- [ ] Palindrome Linked List
+- [ ] Remove Duplicates from Sorted List
+- [ ] Remove Duplicates from Sorted List II
+- [ ] Remove Nth Node From End of List
+- [ ] Reverse Linked List
+- [ ] Reverse Linked List II
+- [ ] Rotate List
+- [ ] Sort List
+- [ ] Swap Nodes in Pairs
+</p>
+</details>
 
-4. Math
+<details><summary>4. Math</summary>
+- [ ] Add Binary
+- [ ] Add Digits
+- [ ] Add Two Numbers
+- [ ] Basic Calculator
+- [ ] Basic Calculator II
+- [ ] Divide Two Integers
+- [ ] Excel Sheet Column Number
+- [ ] Excel Sheet Column Title
+- [ ] Factorial Trailing Zeroes
+- [ ] Fraction to Recurring Decimal
+- [ ] Integer to Roman
+- [ ] Multiply Strings
+- [ ] Number of Digit One
+- [ ] Palindrome Number
+- [ ] Perfect Squares
+- [ ] Permutation Sequence
+- [ ] Plus One
+- [ ] Pow(x, n)
+- [ ] Rectangle Area
+- [ ] Reverse Integer
+- [ ] Roman to Integer
+- [ ] Sqrt(x)
+- [ ] String to Integer (atoi)
+- [ ] Ugly Number
+- [ ] Ugly Number II
+- [ ] Valid Number
+</p>
+</details>
 
-5. String
+<details><summary>5. String</summary>
+Count and Say
+Decode Ways
+Generate Parentheses
+Implement strStr()
+Length of Last Word
+ Letter Combinations of a Phone Number
+Longest Common Prefix
+Longest Palindromic Substring
+Longest Substring Without Repeating Characters
+Restore IP Addresses
+Reverse Words in a String
+Simplify Path
+Valid Palindrome
+Valid Parentheses
+</p>
+</details>
 
-6. Binary Search
+<details><summary>6. Binary Search</summary>
+Count Complete Tree Nodes
+Divide Two Integers
+Find Minimum in Rotated Sorted Array
+Find Peak Element
+First Bad Version
+H-Index II
+Pow(x, n)
+Search for a Range
+Search in Rotated Sorted Array
+Search in Rotated Sorted Array II
+Search Insert Position
+Sqrt(x)
+</p>
+</details>
 
-7. Divide and Conquer
+<details><summary>7. Divide and Conquer</summary>
+Different Ways to Add Parentheses
+Kth Largest Element in an Array
+Majority Element
+Maximum Subarray
+</p>
+</details>
 
 8. Dynamic Programming
 
@@ -98,7 +200,9 @@ Either you are new to software engineering, or you have some web development bac
 15. Breadth-first Search
 
 16. Graph (Directed/Undirected/Weighted Graphs)
-
+Course Schedule
+Course Schedule II
+Counting the number of connected components in an undirected graph
 17. Trie(pronounced "tree")
 
 18. Heap
