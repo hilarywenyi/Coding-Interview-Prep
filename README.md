@@ -68,6 +68,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>2. Hash Table </summary>
 <p>
+
 (this is really important - understand all of the different collision mitigation mechanisms, understand what amortized constant-time means)
 - [ ] Group Anagrams
 - [ ] Bulls and Cows
@@ -89,6 +90,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>3. Linked List</summary>
 <p>
+
 - [ ] Add Two Numbers
 - [ ] Convert Sorted List to Binary Search Tree
 - [ ] Delete Node in a Linked List
@@ -111,6 +113,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>4. Math</summary>
 <p>
+
 - [ ] Add Binary
 - [ ] Add Digits
 - [ ] Add Two Numbers
