@@ -145,6 +145,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>5. String</summary>
 <p>
+
 - [ ] Count and Say
 - [ ] Decode Ways
 - [ ] Generate Parentheses
@@ -164,6 +165,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>6. Binary Search</summary>
 <p>
+
 - [ ] Count Complete Tree Nodes
 - [ ] Divide Two Integers
 - [ ] Find Minimum in Rotated Sorted Array
@@ -190,6 +192,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>8. Dynamic Programming</summary>
 <p>
+
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Climbing Stairs
 - [ ] Decode Ways
@@ -211,6 +214,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>9. Backtracing</summary>
 <p>
+
 - [ ] Combination Sum
 - [ ] Combination Sum II
 - [ ] Combination Sum III
@@ -232,6 +236,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>10. Stack</summary>
 <p>
+
 - [ ] Basic Calculator
 - [ ] Basic Calculator II
 - [ ] Evaluate Reverse Polish Notation
@@ -245,6 +250,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>11. Sort</summary>
 <p>
+
 - [ ] H-Index
 - [ ] H-Index II
 - [ ] Insertion Sort List
@@ -257,6 +263,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>12. Bit Manipulation</summary>
 <p>
+
 - [ ] Bitwise AND of Numbers Range
 - [ ] Majority Element II
 - [ ] Missing Number
@@ -273,6 +280,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>13. Tree (Binary Tree, Binary Search Tree, Red-Black Tree, etc. Learn as many as you can) </summary>
 <p>
+
 - [ ] Balanced Binary Tree
 - [ ] Binary Tree Inorder Traversal
 - [ ] Binary Tree Preorder Traversal
@@ -308,6 +316,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>14. Depth-first Search</summary>
 <p>
+
 - [ ] Balanced Binary Tree
 - [ ] Binary Tree Paths
 - [ ] Binary Tree Right Side View
@@ -332,6 +341,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>15. Breadth-first Search</summary>
 <p>
+
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Level Order Traversal II
 - [ ] Binary Tree Zigzag Level Order Traversal
@@ -343,6 +353,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>16. Graph (Directed/Undirected/Weighted Graphs)</summary>
 <p>
+
 - [ ] Course Schedule
 - [ ] Course Schedule II
 - [ ] Counting the number of connected components in an undirected graph
@@ -351,6 +362,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>17. Trie(pronounced "tree")</summary>
 <p>
+
 - [ ] Implement Trie (Prefix Tree)
 </p>
 </details>
@@ -359,6 +371,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 
 <details><summary>19. Design</summary>
 <p>
+
 - [ ] Implement Queue using Stacks
 - [ ] Implement Stack using Queues
 - [ ] Implement Trie (Prefix Tree)
