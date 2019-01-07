@@ -1,13 +1,10 @@
 # Coding-Interview-Prep :+1:
 
 ## What is it?
-This is a to-do list of topics in computer science, especially in data structure and algorithms that I wanted to comb through.
+This is a to-do list of topics in data structure and algorithms.
 
-## Who am I ?
-Bio-chemical Engineer/Software Developer. An active member in Grace Hopper Academy.
-
-## Who you are?
-Either you are new to software engineering, or you have some web development background and want to level up your coding skills. This is a good place to start.
+## How to use?
+Do it yourself. Can you solve the problem with speed repeatedly?
 
 ## Table of Contents
 
