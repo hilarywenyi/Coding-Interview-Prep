@@ -11,7 +11,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 <details><summary>1. Array</summary>
 <p>
 
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] 3Sum
 - [ ] 3Sum Closest
 - [ ] 4Sum
@@ -70,7 +70,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 <p>
 
 (this is really important - understand all of the different collision mitigation mechanisms, understand what amortized constant-time means)
-- [ ] Group Anagrams
+- [x] Group Anagrams
 - [ ] Bulls and Cows
 - [ ] Count Primes
 - [ ] Fraction to Recurring Decimal
@@ -91,7 +91,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 <details><summary>3. Linked List</summary>
 <p>
 
-- [ ] Add Two Numbers
+- [x] Add Two Numbers
 - [ ] Convert Sorted List to Binary Search Tree
 - [ ] Delete Node in a Linked List
 - [ ] Insertion Sort List
@@ -114,7 +114,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 <details><summary>4. Math</summary>
 <p>
 
-- [ ] Add Binary
+- [x] Add Binary
 - [ ] Add Digits
 - [ ] Add Two Numbers
 - [ ] Basic Calculator
@@ -146,7 +146,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 <details><summary>5. String</summary>
 <p>
 
-- [ ] Count and Say
+- [x] Count and Say
 - [ ] Decode Ways
 - [ ] Generate Parentheses
 - [ ] Implement strStr()
@@ -166,7 +166,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 <details><summary>6. Binary Search</summary>
 <p>
 
-- [ ] Count Complete Tree Nodes
+- [x] Count Complete Tree Nodes
 - [ ] Divide Two Integers
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Find Peak Element
@@ -215,7 +215,7 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 <details><summary>9. Backtracing</summary>
 <p>
 
-- [ ] Combination Sum
+- [x] Combination Sum
 - [ ] Combination Sum II
 - [ ] Combination Sum III
 - [ ] Combinations
@@ -281,8 +281,8 @@ Do it yourself. Can you solve the problem with speed repeatedly?
 <details><summary>13. Tree (Binary Tree, Binary Search Tree, Red-Black Tree, etc. Learn as many as you can) </summary>
 <p>
 
-- [ ] Balanced Binary Tree
-- [ ] Binary Tree Inorder Traversal
+- [x] Balanced Binary Tree
+- [x] Binary Tree Inorder Traversal
 - [ ] Binary Tree Preorder Traversal
 - [ ] Binary Tree Postorder Traversal
 - [ ] Binary Tree Level Order Traversal
